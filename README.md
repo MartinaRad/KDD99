@@ -8,8 +8,8 @@ Dataset: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 **1. Preprocessing**
 
 Data is downloaded and loaded. Columns are named and the different outcomes are labeled. 
-**
-2. Analyzing the dataset**
+
+**2. Analyzing the dataset**
 
 A pie chart is ploted (pie.jpg) to show the percentage of normal connections and attacks.
 A matrix is ploted to show correlation between attributes (matrix.jpg).
