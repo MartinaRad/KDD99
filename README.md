@@ -1,6 +1,6 @@
 # KDD99
 
-Comparing two machine learning algorithms for processing the KDD Cup 99 Dataset.
+Comparing two machine learning algorithms for processing the KDD Cup 99 Dataset using Python libraries.
 
 Dataset: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 
