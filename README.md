@@ -18,13 +18,13 @@ A matrix is ploted to show correlation between attributes (matrix.jpg).
 
 Data is devided in train and test sets. A random forest algorithm runs first the train data. After that with a timer the algorithm is tested for accuracy and speed.
  - sklearn package is used
-**
-4. Neural Network**
+
+**4. Neural Network**
 
 A neural network is created. Data is devided again in train and test sets. Algorithm is trained and tested also for speed and accuracy. 
  - tensorflow is used
-**
-5. Comparison**
+
+**5. Comparison**
 
 A bar chart is created to compare accuracy and speed of testing in both algorithms.
 (comparison.jpg)
