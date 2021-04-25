@@ -11,8 +11,8 @@ Data is downloaded and loaded. Columns are named and the different outcomes are 
 
 **2. Analyzing the dataset**
 
-A pie chart is ploted (pie.jpg) to show the percentage of normal connections and attacks.
-A matrix is ploted to show correlation between attributes (matrix.jpg).
+A pie chart is ploted (pie.jpeg) to show the percentage of normal connections and attacks.
+A matrix is ploted to show correlation between attributes (matrix.jpeg).
 
 **3. Random Forest**
 
@@ -27,4 +27,4 @@ A neural network is created. Data is devided again in train and test sets. Algor
 **5. Comparison**
 
 A bar chart is created to compare accuracy and speed of testing in both algorithms.
-(comparison.jpg)
+(comparison.jpeg)
